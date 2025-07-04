@@ -1,0 +1,3 @@
+${id},${username},${firstname},${lastname},${email},${password},${phone},${user_status}
+17375491002,bob_builder,Bob,Builder,bob@buildit.com,buildR0cks,5521981001002,2
+17375491003,charlie_choco,Charlie,Bucket,charlie@choco.com,goldenTicket,5521981001003,0
